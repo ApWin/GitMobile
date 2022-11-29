@@ -1,0 +1,6 @@
+qo'shilmagan packlar
+
+moment-duration-format
+@react-native-community/masked-view
+react-native-gesture-handler
+react-native-reanimated
